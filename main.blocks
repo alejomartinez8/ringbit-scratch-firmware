@@ -1,0 +1,29 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id=",DrOl;0g:E!IdZx]bkC;">cmd</variable><variable id="-8pd+x:(Nm3STW1JNuHq">parts</variable><variable id="FSVHP4Rlk0FhE,x9nS02">l</variable><variable id="mSHxO?|cIZk;CwNIC2P~">r</variable><variable id=",Q4vE#BnB~R`$dg+(WSu">parts2</variable><variable id="30+TM4vK`;xvwa/Mo6Q{">pinNum</variable><variable id="JdZ`qk4/l2*uSnG|T^3B">angle</variable><variable id="9PR{wX~*vP$mGaf(NUfh">idx</variable><variable id="^NyAW$wLGojpVfT=L`%m">connected</variable><variable id="nf9wZuyTI|cs/U%~SISC">raw</variable></variables><comment id=":B(gtLfW@VT5#X0%iozH" x="0" y="2837" w="480" h="120">
+=====================================================
+</comment><comment id="}+DqdPUbA4%gX==,74KE" x="525" y="2837" w="250" h="120">
+Ring:bit Scratch Firmware
+</comment><comment id="0~L~TwKuudD3q[V*`n|0" x="820" y="2837" w="480" h="120">
+Protocolo UART texto, comandos terminados en '\n'
+</comment><comment id="!3LafQ{?k=VBT@kYlP-6" x="1345" y="2837" w="410" h="120">
+Comandos aceptados (Scratch → micro:bit):
+</comment><comment id="qyMmfkRg]%fU8(Su{j%-" x="1800" y="2837" w="200" h="120">
+F            avanzar
+</comment><comment id="o_wbmu|Ovqh}4lJ%P*QP" x="2045" y="2837" w="230" h="120">
+B            retroceder
+</comment><comment id="oBg*)NLCD]?Q6tbE?N|s" x="2320" y="2837" w="280" h="120">
+L            girar izquierda
+</comment><comment id="@9O3%Aw9]rw|=XK;l8Vj" x="2645" y="2837" w="260" h="120">
+R            girar derecha
+</comment><comment id="3nqdZPUN{Au*GBiYpNeb" x="2950" y="2837" w="200" h="120">
+S            detener
+</comment><comment id="9jhh%#UJdsMC6`iQeTB+" x="3195" y="2837" w="450" h="120">
+W,&lt;l&gt;,&lt;r&gt;    ruedas con ángulos crudos 0..180
+</comment><comment id="xO4B=RQFN8s~|L_].hKD" x="0" y="3002" w="480" h="120">
+V,&lt;pin&gt;,&lt;a&gt;  servo arbitrario (pin 0/1/2, ángulo 0..180)
+</comment><comment id="~*H@Nshi*IN|GB.RtKxz" x="525" y="3002" w="390" h="120">
+T,&lt;texto&gt;    mostrar texto en la matriz
+</comment><comment id="V/O2:KN7WHiM*$lGp%7o" x="960" y="3002" w="270" h="120">
+C            limpiar matriz
+</comment><comment id="0}sZ.l?`tl6_}Zjv4;)$" x="1275" y="3002" w="480" h="120">
+=====================================================
+</comment></xml>
